@@ -1,0 +1,23 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/app-header.js": "components/app-header.js",
+    "pages/About.js": "pages/About.js",
+    "pages/Admin/Login.js": "pages/Admin/Login.js",
+    "pages/Contact.js": "pages/Contact.js",
+    "pages/User/Login.js": "pages/User/Login.js",
+    "pages/User/Registration.js": "pages/User/Registration.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/app-header.js": "components/app-header.js.map",
+    "pages/About.js": "pages/About.js.map",
+    "pages/Admin/Login.js": "pages/Admin/Login.js.map",
+    "pages/Contact.js": "pages/Contact.js.map",
+    "pages/User/Login.js": "pages/User/Login.js.map",
+    "pages/User/Registration.js": "pages/User/Registration.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
