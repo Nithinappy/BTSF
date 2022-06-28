@@ -2,43 +2,43 @@
   {
     "name": "About",
     "path": "/About",
-    "component": "D:\\\\Projects\\\\Bts\\\\pages\\\\About.vue",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\BTSF\\\\pages\\\\About.vue",
     "chunkName": "pages/About",
-    "_name": "_0f7fbafc"
+    "_name": "_a17b574c"
   },
   {
     "name": "Contact",
     "path": "/Contact",
-    "component": "D:\\\\Projects\\\\Bts\\\\pages\\\\Contact.vue",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\BTSF\\\\pages\\\\Contact.vue",
     "chunkName": "pages/Contact",
-    "_name": "_30f9c04f"
+    "_name": "_2b090ba6"
   },
   {
     "name": "Admin-Login",
     "path": "/Admin/Login",
-    "component": "D:\\\\Projects\\\\Bts\\\\pages\\\\Admin\\\\Login.vue",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\BTSF\\\\pages\\\\Admin\\\\Login.vue",
     "chunkName": "pages/Admin/Login",
-    "_name": "_06fc5bfb"
+    "_name": "_417a1cdd"
   },
   {
     "name": "User-Login",
     "path": "/User/Login",
-    "component": "D:\\\\Projects\\\\Bts\\\\pages\\\\User\\\\Login.vue",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\BTSF\\\\pages\\\\User\\\\Login.vue",
     "chunkName": "pages/User/Login",
-    "_name": "_7af8774d"
+    "_name": "_71a3dbaa"
   },
   {
     "name": "User-Registration",
     "path": "/User/Registration",
-    "component": "D:\\\\Projects\\\\Bts\\\\pages\\\\User\\\\Registration.vue",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\BTSF\\\\pages\\\\User\\\\Registration.vue",
     "chunkName": "pages/User/Registration",
-    "_name": "_72288785"
+    "_name": "_7a9696e7"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "D:\\\\Projects\\\\Bts\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\BTSF\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_9075143e"
+    "_name": "_57880f3f"
   }
 ]

@@ -4,12 +4,12 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _0f7fbafc = () => interopDefault(import('..\\pages\\About.vue' /* webpackChunkName: "pages/About" */))
-const _30f9c04f = () => interopDefault(import('..\\pages\\Contact.vue' /* webpackChunkName: "pages/Contact" */))
-const _06fc5bfb = () => interopDefault(import('..\\pages\\Admin\\Login.vue' /* webpackChunkName: "pages/Admin/Login" */))
-const _7af8774d = () => interopDefault(import('..\\pages\\User\\Login.vue' /* webpackChunkName: "pages/User/Login" */))
-const _72288785 = () => interopDefault(import('..\\pages\\User\\Registration.vue' /* webpackChunkName: "pages/User/Registration" */))
-const _9075143e = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _a17b574c = () => interopDefault(import('..\\pages\\About.vue' /* webpackChunkName: "pages/About" */))
+const _2b090ba6 = () => interopDefault(import('..\\pages\\Contact.vue' /* webpackChunkName: "pages/Contact" */))
+const _417a1cdd = () => interopDefault(import('..\\pages\\Admin\\Login.vue' /* webpackChunkName: "pages/Admin/Login" */))
+const _71a3dbaa = () => interopDefault(import('..\\pages\\User\\Login.vue' /* webpackChunkName: "pages/User/Login" */))
+const _7a9696e7 = () => interopDefault(import('..\\pages\\User\\Registration.vue' /* webpackChunkName: "pages/User/Registration" */))
+const _57880f3f = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -24,27 +24,27 @@ export const routerOptions = {
 
   routes: [{
     path: "/About",
-    component: _0f7fbafc,
+    component: _a17b574c,
     name: "About"
   }, {
     path: "/Contact",
-    component: _30f9c04f,
+    component: _2b090ba6,
     name: "Contact"
   }, {
     path: "/Admin/Login",
-    component: _06fc5bfb,
+    component: _417a1cdd,
     name: "Admin-Login"
   }, {
     path: "/User/Login",
-    component: _7af8774d,
+    component: _71a3dbaa,
     name: "User-Login"
   }, {
     path: "/User/Registration",
-    component: _72288785,
+    component: _7a9696e7,
     name: "User-Registration"
   }, {
     path: "/",
-    component: _9075143e,
+    component: _57880f3f,
     name: "index"
   }],
 
