@@ -16,7 +16,7 @@
 
       <div class="row">
         <!--Grid column-->
-        <div class="col-md-9 mb-md-0 mb-5">
+        <div class="col-md-5 mb-md-0 mb-5">
           <form
             id="contact-form"
             name="contact-form"
@@ -74,7 +74,7 @@
             <!--Grid row-->
             <div class="row">
               <!--Grid column-->
-              <div class="col-md-12">
+              <div class="col-md-6">
                 <div class="md-form">
                   <textarea
                     type="text"
